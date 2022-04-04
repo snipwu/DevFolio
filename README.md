@@ -4,4 +4,4 @@
 <p>Just Dounload The Zip File Version And Open And edit it with your preferred text editor</p>
 <h2>Credits</h2>
 <br>
-<p>Coded By <a href="https://hithub.com/killlergaming">KillerGaming</a> & Published By Sniper
+<p>Coded By <a href="https://github.com/killlergaming">KillerGaming</a> & Published By Sniper
